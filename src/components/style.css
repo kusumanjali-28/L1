@@ -1,0 +1,114 @@
+
+.reg form {
+  background:rgb(0, 0, 0);
+  opacity: 0.6;
+  border: 2px solid #7d7b7b;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  max-width: 500px;
+  padding: 30px 50px;
+  width: 2000px;
+}
+
+.reg input{
+  border: 2px solid #676666;
+  border-radius: 4px;
+  box-sizing: border-box;
+  padding: 10px;
+  width: 100%;
+  font-size: 15px; 
+ }
+
+
+.rg .label {
+  color: #726f6f;
+   display: block; 
+  font-family: sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+
+}
+
+.reg .submit {
+  height: 40px;
+	color: #fff;
+	font-size: 15px;
+	background: red;
+	cursor: pointer;
+	border-radius: 25px;
+	border: none;
+	outline: none;
+}
+.pp2{
+  height: 750px;
+  background-size: 1550px 900px;
+  background-repeat: no-repeat;
+  padding: 50px 0px 20px 0px;
+  margin-left: 400px;
+  margin-top: 2px;
+ }
+
+ .nav {
+  margin-left:100px;
+  margin-top: 50px;
+}
+
+.nav button{
+  padding:20px 20px 20px 20px;
+  margin-left:200px;
+  background-color:black;
+  color:white;
+}
+
+.form1 {
+  background-color: rgb(201, 209, 209);
+  padding: 30px 20px 20px 20px;
+  margin-right: 300px;
+  margin-left: 300px;
+  margin-top: 50px;
+}
+
+.form1 h1{
+  text-align: center;
+}
+
+.login-form{
+  padding: 10px 20px 20px 300px;
+
+}
+
+.login-form label{
+ font-size: large;
+}
+.login-form input{
+  font-size: large;
+}
+
+.login-form button{
+  font-size: large;
+  text-align: center;
+  margin-left: 100px;
+  background-color: rgb(255, 253, 253);
+  border: 2px solid;
+}
+
+
+
+
+.home img{
+  height:500px;
+  width: 500px;
+  position: relative;
+  margin-left: 900px;
+  margin-top: -200px;
+
+}
+.home h2{
+  font-family: 'lubricahandwriting';
+  position: relative;
+  margin-left: 300px;
+  margin-top: 200px;
+  
+
+}

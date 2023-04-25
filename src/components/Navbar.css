@@ -1,0 +1,64 @@
+.nav {
+    margin-left:100px;
+    margin-top: 50px;
+}
+
+.nav button{
+    padding:20px 20px 20px 20px;
+    margin-left:200px;
+    background-color:black;
+    color:white;
+}
+
+.form1 {
+    background-color: rgb(201, 209, 209);
+    padding: 30px 20px 20px 20px;
+    margin-right: 300px;
+    margin-left: 300px;
+    margin-top: 50px;
+}
+
+.form1 h1{
+    text-align: center;
+}
+
+.login-form{
+    padding: 10px 20px 20px 300px;
+
+}
+
+.login-form label{
+   font-size: large;
+}
+.login-form input{
+    font-size: large;
+ }
+
+.login-form button{
+    font-size: large;
+    text-align: center;
+    margin-left: 100px;
+    background-color: rgb(255, 253, 253);
+    border: 2px solid;
+ }
+
+
+
+
+.home img{
+    height:500px;
+    width: 500px;
+    position: relative;
+    margin-left: 900px;
+    margin-top: -200px;
+
+}
+.home h2{
+    font-family: 'lubricahandwriting';
+    position: relative;
+    margin-left: 300px;
+    margin-top: 200px;
+    
+
+}
+  
